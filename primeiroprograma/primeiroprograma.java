@@ -8,10 +8,10 @@ public class primeiroprograma {
 //criar um método, método principal, main
 public static void main(String[] args) {
 //agora escrever um código que mostra algo na tela, ou no caso palavras
-System.out.print("Oie, meu primeiro programa em Java!");
+System.out.println("Oie, meu primeiro programa em Java!");
 //certifique-se de fechar com ";" quando for terminar o print
 //se vc usar print com ln no final, qualquer argumento do terminal fica em baixo, ou qualquer outro print
-
+//utilize letras maiúsculas para classes, e para atributos ou outros nomes, letras minúsculas com ou sem underline
 }
 
 }
